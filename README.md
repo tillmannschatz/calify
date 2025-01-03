@@ -3,6 +3,7 @@ Part of the [effensify](https://github.com/tillmannschatz/effensify) product fam
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2c36898c-8b24-42bb-832f-54c960f53082" alt="effensify_Title" height="300" > <img src="https://github.com/user-attachments/assets/aa628aca-21ed-42f1-a668-807fd18e65f2" alt="calify_Title" height="300" >
 </p>
+
 ## Vision
 **Organize, Schedule, Deliver:** Time is critical, and Outlook is often the center of every consultant’s workflow. calify optimizes mail and calendar management, streamlining scheduling, follow-ups, and signature management. By automating repetitive tasks and integrating smart scheduling features, calify ensures that no meeting or critical email falls through the cracks.
 
